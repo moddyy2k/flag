@@ -1,0 +1,42 @@
+.the {
+    font-size: 5rem;
+    text-align: center;
+    background-color: red;
+    color: white;
+    height: 100px;
+}
+
+.blue {
+    
+    background-color: blue;
+    height: 300px;
+}
+.of {
+    font-size: 41px;
+    top: -188px;
+    position: relative;
+    text-align: center;
+    
+
+}
+
+.laos {
+    
+    position: relative;
+    left: 540px;
+    border-radius: 319px;
+    text-align: center;
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    
+}
+
+.red {
+    background-color: red;
+    height: 100px;
+}
+
+.main {
+    border-style: dotted;
+}
